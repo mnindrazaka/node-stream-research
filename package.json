@@ -1,0 +1,21 @@
+{
+  "name": "stream-research",
+  "version": "1.0.0",
+  "description": "Research streaming mechanism using node.js",
+  "main": "index.js",
+  "scripts": {
+    "create-file": "node src/create-file.js",
+    "start": "node src/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mnindrazaka/node-stream-research.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mnindrazaka/node-stream-research/issues"
+  },
+  "homepage": "https://github.com/mnindrazaka/node-stream-research#readme"
+}
